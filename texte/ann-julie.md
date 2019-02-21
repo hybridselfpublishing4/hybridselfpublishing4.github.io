@@ -4,6 +4,8 @@
 
 Inwieweit erweitert Code die Ausdrucksweisen von Kreativität?
 
+
+
 One Minute
 - Code ermöglicht es Gedankengänge neu zu visualisieren
 - experimentell
@@ -44,3 +46,4 @@ Quellen:
 - https://formfunk-podcast.de/interviews/andreas-muxel
 - https://www.zeit.de/1999/37/199937.bulkware.xml
 - https://www.goethe.de/de/kul/bku/21114134.html
+- http://hannesbajohr.de/wp-content/uploads/2018/12/Bajohr-2016-Das-Reskilling-der-Literatur.pdf
