@@ -12,7 +12,7 @@ Ist postdigitale Literatur (als Genre) zeitgemäß?
 
 neuer Ansatz: Mehrwert von Hybrid Publishing - Was bietet es was andere Publishings nicht können/ verwehrt ist?
 
-## nochmal neuer Ansatz: Self Publishing früher vs heute (nur digital oder auch print?)
+nochmal neuer Ansatz: Self Publishing früher vs heute (nur digital oder auch print?)
 
 - Möglichkeiten früher und heute 
 - Führen unbegrenzte Möglichkeiten zu Qualitätmängeln
