@@ -9,4 +9,5 @@ Ist postdigitale Literatur (als Genre) zeitgemäß?
 - Self publishing durch die Mitentwicklung der Öffentlichkeit? Parallel Bewegung?
 - Krampfhafte Bewahrung (einzelnder) des alten Zustandes
 - Grundlage des Alttags/heutige Öffentlichkeit: Unterwegs, Konsum, Platzmangel, Schnelligkeit
--  
+
+neuer Ansatz: Mehrwert von Hybrid Publishing - Was bietet es was andere Publishings nicht können/ verwehrt ist? 
