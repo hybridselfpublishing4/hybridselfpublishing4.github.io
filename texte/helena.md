@@ -1,5 +1,5 @@
 
 # Titel
-* Helena Hagemeier *
+*Helena Hagemeier*
 
 Lorem ipsum 
