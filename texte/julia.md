@@ -10,4 +10,12 @@ Ist postdigitale Literatur (als Genre) zeitgemäß?
 - Krampfhafte Bewahrung (einzelnder) des alten Zustandes
 - Grundlage des Alttags/heutige Öffentlichkeit: Unterwegs, Konsum, Platzmangel, Schnelligkeit
 
-neuer Ansatz: Mehrwert von Hybrid Publishing - Was bietet es was andere Publishings nicht können/ verwehrt ist? 
+neuer Ansatz: Mehrwert von Hybrid Publishing - Was bietet es was andere Publishings nicht können/ verwehrt ist?
+
+## nochmal neuer Ansatz: Self Publishing früher vs heute (nur digital oder auch print?)
+
+- Möglichkeiten früher und heute 
+- Führen unbegrenzte Möglichkeiten zu Qualitätmängeln
+- 
+Alessandro Ludovico - Post-Digital 
+
