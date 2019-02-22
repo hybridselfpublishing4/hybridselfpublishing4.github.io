@@ -31,6 +31,7 @@ Code als Werkzeug?
 - X Videos übers Coden > teilen von Fähigkeiten 
 - neue Interaktionsmöglichkeiten
 - künstliche Intelligenz
+- man kann unendlich viele Fehler machen, da man diesen mit schnell wieder löschen/rückgängig machen kann. bei welchem Werkzeug hat man diesen Luxus?
 
 Wie möchte ich das Thema vermitteln?
 
