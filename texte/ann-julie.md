@@ -61,7 +61,10 @@ Was könnten Zukünftige Kommunikationsmöglichkeiten sein?
 > Kaffeemaschine, Handy, Laptop, Autos > überall sind Microcontroller verarbeitet
 Geht nicht gibt`s nicht
 warum nicht nur adobe suite? "bestehene Werkzeuge lemitieren dich indem was man machen will" "was will man machen und dann kann man sich das werkzeug ggf. selber bauen" "werkzeuge sind nicht nur mittel zum zweck sondern auch dafür da um eine erkentniss zu bekommen oder eine neuerkentnis zu bekommen. oft indem ein werkzeug baut und ausprobiert dann kommt oft erst der nächste schritt. und man kann es aber ändern wenn mans selber macht kann man wirklich an der ein oder anderen schraube drehen.." Das Programmieren geht oft über das coden weit hinaus wenn man Licht, Motoren, Kinitik mit bewegung zb. arbeitet."Sobald man mit diesen Materialien arbeitet und die sichere Welt des digitalen und des Bildschirms verlässt, passieren oft Dinge die man nicht geplant hat und das sind eigentlich die spannenden Sachen.
-
+Basel für Indesign
+Man muss nich coden können aber ermöglicht  neue Möglichkeiten und neue Sichtweisen auf eigene Projekte
+Programmieren: Handlungsanweisungen, System, Methodik man braucht keinen PC
+Fehler sind oftmals spannender als das was mane igentlich machen wollte. Man ist im Gespräch mit dem Code, Zulassen des Fehlers
 
 
 - https://www.zeit.de/1999/37/199937.bulkware.xml
