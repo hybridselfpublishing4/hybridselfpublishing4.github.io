@@ -16,7 +16,11 @@ nochmal neuer Ansatz: Self Publishing früher vs heute (nur digital oder auch pr
 
 - Möglichkeiten früher und heute durch
 
+
 Literaturvorschlag: Alessandro Ludovico - Post-Digital
+
+
+
 
 zurück zum alten Ansatz, nur weiter gedacht: ohne Öffentlichkeit, Eingränzung
 
