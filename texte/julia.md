@@ -18,16 +18,21 @@ nochmal neuer Ansatz: Self Publishing früher vs heute (nur digital oder auch pr
 
 Literaturvorschlag: Alessandro Ludovico - Post-Digital
 
-zurück zum alten Ansatz, nur weiter gedacht:
+zurück zum alten Ansatz, nur weiter gedacht: ohne Öffentlichkeit, Eingränzung
 
 Mir gestellte Fragen in der Besprechung: 
 
-1. Was verstehe ich unter ich der Mitentwicklung? -> Das Printmedium wird in die digitale Welt mit einbezogen ohne seine traditionelle Version abzulegen -> Wie wird es einbezogen? Programmierte Texte zum selbst ausdrucken, Online Bücher,
+- Was verstehe ich unter ich der Mitentwicklung? 
+-> Das Printmedium wird in die digitale Welt mit einbezogen ohne seine traditionelle Version abzulegen -> Wie wird es einbezogen? Programmierte Texte zum selbst ausdrucken, Online Bücher,
 
-2. Denke ich Print wird später einmal vollständig ersetzt sein? -> Nein, was halt uns am Print? Wieso drucken wir digitales aus? -> Print ist Handfest, nicht an Datenübertragung etc gebunden ( ist das so?) , Entzug der digitalen Welt, 
+Ersetzt Digitales Print?
 
--> Wieso Print, wenn wir es Digital haben können?
--> Widerspruch? - Print wird aktualisiert ohne die eigentliche Form aufzugeben, Nicht widersprüchlich sondern ergänzend? -> Vereinfachung von Gestaltung von Print durch digitales, 
+- Denke ich Print wird später einmal vollständig ersetzt sein? -> Nein, was halt uns am Print? Wieso drucken wir digitales aus? -> Print ist Handfest, nicht an Datenübertragung etc gebunden ( ist das so?) , Entzug der digitalen Welt, 
+
+Ist es widersprüchlich Digitales Auszudrucken?
+
+- Wieso Print, wenn wir es Digital haben können
+- Widerspruch? - Print wird aktualisiert ohne die eigentliche Form aufzugeben, Nicht widersprüchlich sondern ergänzend? -> Vereinfachung von Gestaltung von Print durch digitales, 
 
 
 
