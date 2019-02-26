@@ -37,4 +37,4 @@ Zitate:
 
 - On one hand, the timeless and immutable printed page is itself increasingly subjected to a variety of real-time updating schemes. On the other hand, having an information carrier which is physically reliable (as well as independent of electrical and data connections) is increasingly being recognised as a precious resource by a generation which spends much of its days glued to ‘unsteady’ laptops.
 
--« Im Gegenteil sei das Verhältnis von Digital- und Analogtechnologien nicht antagonistisch zu denken, sondern komplementär. 
+- « Im Gegenteil sei das Verhältnis von Digital- und Analogtechnologien nicht antagonistisch zu denken, sondern komplementär. 
