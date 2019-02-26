@@ -3,10 +3,16 @@
 *Ann-Julie Grinat*
 
 - die wunderbare Welt des Coden: Schnittstelle im postdigitalen Zeitlalter
-- Code: Werkzeug++
+- Code: Werkzeug++ 
 
+sind mehr möglichkeiten immer besser
+was macht ein werkzeug aus was i der unterschied zu einem normalen werkezug
+werkzeug haben grnzen, werkzeuge+ haben auch mehr möglichkeiten, werkzeug ++ überschreiten diese
+analogie. der buchdruck > erster Werkzeug, Display, zweites werkzeug, Code drittes Beispiel
+Gegenargument , sind es zu viele möglichkeitem, buchdruck war viel überlegter?
+Beispiele suchen, gibt der code einem den weg vor, ist das verführeisch
 Inwieweit erweitert Code die Ausdrucksweisen von Kreativität?
-
+Ende:  muss man es behrrschen? Spielwiese? Position beziehen!
 
 
 One Minute
@@ -99,6 +105,8 @@ informiertem Material vereint. S.20
 "Ich kann etwas Physisches erschaffen, etwas, das man sehen und anfassen kann."
 "Es wird immer einfacher, zu experimentieren und sich mit dem Programmieren auszudrücken, statt nach rigiden Strukturen vorzugehen. Tools wie Processing und openFrameworks machen das möglich"
 
+- Autorraussuchen? Wenn man benutzen will dann auch schreiben das es kein wissenschaftlicher text ist
+
 
 - https://devart.withgoogle.com/
 - https://formfunk-podcast.de/interviews/andreas-muxel
@@ -114,6 +122,7 @@ Man muss nich coden können aber ermöglicht  neue Möglichkeiten und neue Sicht
 Programmieren: Handlungsanweisungen, System, Methodik man braucht keinen PC
 Fehler sind oftmals spannender als das was mane igentlich machen wollte. Man ist im Gespräch mit dem Code, Zulassen des Fehlers
 
+minuten angabe
 
 - https://www.zeit.de/1999/37/199937.bulkware.xml
 - https://www.goethe.de/de/kul/bku/21114134.html
