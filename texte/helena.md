@@ -10,6 +10,14 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1087/20130310
 https://www.erudit.org/en/journals/ttr/2006-v19-n1-ttr1809/016663ar.pdf
 http://andpublishing.org/v2/wp-content/uploads/2016/05/Eva-Weinmayr-Library-Underground-Sternberg.pdf
 
+Amazon books: auch schnell und günstig
+ästhetik schnell und günstig: funktioniert die aussage heute noch/macht es noch sinn wenn es auch schnell und professionell geht? 
+
+-asthetik : femisistisch? heutzutage? Infradünne Plattformen? digitale Mittel zum verzerren um ästhetik infrage zu stellen?
+
+These: Professionelle in Frage stellen mit der Ästhetik des Unprofessionellen. Was gibt es heute? - Vergleich.
+
+Heute: Grenzen sprengen: wirkt unprofessionell, ist aber Kommentar. Vergleich zu den 70er Jahren. 
 
 
 
