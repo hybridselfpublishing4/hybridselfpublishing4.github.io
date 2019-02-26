@@ -38,7 +38,10 @@ Ist es widersprüchlich Digitales Auszudrucken?
 - Wieso Print, wenn wir es Digital haben können
 - Widerspruch? - Print wird aktualisiert ohne die eigentliche Form aufzugeben, Nicht widersprüchlich sondern ergänzend? -> Vereinfachung von Gestaltung von Print durch digitales, 
 
+Noch nicht perfekte These: Digitales und Print widersprechen sich nicht. Sie ergänzen  sich, ohne dem Printmedium die Ursprungsform zu stehlen.
 
+- Ursprungsform welche?
+- Ergänzung in welcher Form?
 
 Zitate:
 
@@ -47,3 +50,4 @@ Zitate:
 - On one hand, the timeless and immutable printed page is itself increasingly subjected to a variety of real-time updating schemes. On the other hand, having an information carrier which is physically reliable (as well as independent of electrical and data connections) is increasingly being recognised as a precious resource by a generation which spends much of its days glued to ‘unsteady’ laptops.
 
 - « Im Gegenteil sei das Verhältnis von Digital- und Analogtechnologien nicht antagonistisch zu denken, sondern komplementär. 
+-  Zum einen ist das analoge Endprodukt Ergebnis digitaler Herstellungstechnik. 
