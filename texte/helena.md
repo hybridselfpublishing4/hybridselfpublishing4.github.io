@@ -1,5 +1,5 @@
 
-# Professionalisierung von Selbst publizierten Texten/Büchern --> ist eine Professionalisierung gewollt?
+# Professionalisierung von Selbst publizierten Texten/Büchern --> ist eine Professionalisierung in jedem Fall gewollt?
 hybrides Selbstpublizieren.
 
 *Helena Hagemeier*
@@ -14,7 +14,7 @@ http://andpublishing.org/v2/wp-content/uploads/2016/05/Eva-Weinmayr-Library-Unde
 
 
 Einleitung
-
+Viele selbst publizierte Texte wirken sehr professionell und können kaum von Verlagstexten unterschieden werden. Andere hingegen scheinen schnell produziert und amateurhaft publiziert zu werden. 
 
 
 Hauptteil 
