@@ -18,7 +18,7 @@ Viele selbst publizierte Texte wirken sehr professionell und können kaum von Ve
 
 
 Hauptteil 
-Im Laufe der Geschichte stiegen die Möglichkeiten eigene Texte zu veröffentlichen und die eigenen Interessen damit voranzubringen. Das Buch diente somit schon Gutenberg dazu, seine persönlichen Erfahrungen zu speichern und zu verbreiten (Rühl (1999): 72). Dies ist auch das Hauptziel vieles Autoren, die ihre Texte selbst publizieren (). Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon (), liegt ihr Interesse nicht im wirtschaftlichen Erfolg. Sie möchten 
+Im Laufe der Geschichte stiegen die Möglichkeiten eigene Texte zu veröffentlichen und die eigenen Interessen damit voranzubringen. Das Buch diente somit schon Gutenberg dazu, seine persönlichen Erfahrungen zu speichern und zu verbreiten (Rühl (1999): 72). Dies ist auch das Hauptziel vieles Autoren, die ihre Texte selbst publizieren (). Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon (), liegt ihr Interesse nicht im wirtschaftlichen Erfolg. Sie sehen ihre Texte nicht als Verkaufsware(), sondern als Medium, um den Inhalt zu verbreiten und diesen jedermann zugänglich zu machen(). Um das möglich zu machen, ist es nötig, den Verkaufspreis möglichst gering zu halten. Dies wäre nicht möglich, wenn sie ihre Texte möglichst professionell verbreiten würden und widerspräche auch ihrem Gedanken, die Inhalte zu verbreiten und keine Sammlerstücke daraus zu machen().
 
 
 Schluss
