@@ -14,11 +14,11 @@ http://andpublishing.org/v2/wp-content/uploads/2016/05/Eva-Weinmayr-Library-Unde
 
 
 Einleitung
-Viele selbst publizierte Texte wirken sehr professionell und können kaum von Verlagstexten unterschieden werden. Andere hingegen scheinen schnell produziert und amateurhaft publiziert zu werden. 
+Viele selbst publizierte Texte wirken sehr professionell und können kaum von Verlagstexten unterschieden werden. Andere hingegen scheinen schnell produziert und amateurhaft publiziert zu werden. Meine zentrale Frage ist, ob sich diese Texte bewusst der Ästhetik des Unprofessionellen bedienen und welche Gründe es dafür gibt. 
 
 
 Hauptteil 
-
+Im Laufe der Geschichte stiegen die Möglichkeiten eigene Texte zu veröffentlichen und die eigenen Interessen damit voranzubringen. Das Buch diente somit schon Gutenberg dazu, seine persönlichen Erfahrungen zu speichern und zu verbreiten (Rühl (1999): 72). Dies ist auch das Hauptziel vieles Autoren, die ihre Texte selbst publizieren (). Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon (), liegt ihr Interesse nicht im wirtschaftlichen Erfolg. Sie möchten 
 
 
 Schluss
