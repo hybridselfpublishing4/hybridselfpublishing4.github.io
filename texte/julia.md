@@ -44,6 +44,8 @@ Noch nicht perfekte These: Digitales auzudrucken ist kein Widerspruch zur normal
 - Ergänzung in welcher Form?
 - Wieso drucken wir digitales aus?
 
+Diskussion wieso wir digitales ausdrucken, mir drei kleinen Thesen
+
 Zitate:
 
 - As they struggle for survival, they must rapidly evolve and adapt to an ever-changing media environment. One direct consequence of this process, obviously, is that printed publishing will never be the same again: it is being deeply transformed by two opposite (even contradic- tory) needs.
