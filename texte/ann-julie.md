@@ -2,6 +2,9 @@
 # Code als Werkzeug
 *Ann-Julie Grinat*
 
+- die wunderbare Welt des Coden: Schnittstelle im postdigitalen Zeitlalter
+- Code: Werkzeug++
+
 Inwieweit erweitert Code die Ausdrucksweisen von Kreativität?
 
 
@@ -43,7 +46,36 @@ Wie kann ich dieses Thema spezifisch auf Hybridpublishing oder Selfpublishing an
 
 
 Quellen: 
+
 - https://www.hosteurope.de/blog/it-technologie-trifft-kunst-design-das-retune-festival/
+- https://link.springer.com/chapter/10.1007/978-3-7091-0121-6_1
+Computercodes sind seltsame Hybridobjekte. S.18
+
+Sie sind Text einerseits und damit als mathematisch-symbolische Beschreibungen zu
+lesen, andererseits besitzen sie als materielle Signalprozesse im Rechner die Kraft,
+vom Programmierer vorgedachte symbolische Operationen in reale Aktionen umzusetzen. S.18
+
+Die Codes dagegen sind direkt mit dem
+menschlichen Denken und der menschlichen Sprache verbunden, sie sind der algorithmischen Rationalität verpflichtet. Die Codes gehorchen nicht mehr physikalischen
+Gesetzen, sondern logischen. S.19
+
+Nicht die
+Digitalität ist deshalb das wesentliche Merkmal des Computers, sondern seine formallogische Basis. Schon die Tatsache, dass wir auf symbolischer Grundlage problemlos
+stetige Vorgänge und Systeme beschreiben und behandeln können, zeigt die Zweitrangigkeit der Digitalität. Fehler, die im Zusammenhang mit Programmcodes auftreten, sind deshalb auch immer Denkfehler und nie Materialfehler im physikalischen
+Sinn. Denkfehler entstehen immer dann, wenn die Vorstellungen, die sich ein Programmierer vom seinem Code macht, nicht mit den Funktionen übereinstimmen,
+die der Code tatsächlich berechnet. Entscheidend in diesem Zusammenspiel von
+Programmierer und Computer ist die strikte Trennung zwischen Interpretation im
+Sinne der Semiotik und Exekution im Sinne der Berechnung. Es ist immer der Programmierer, der vordenkt und sein Denken in Zeichen fasst, und es ist der Computer,
+der nachrechnet. Er hat keine Möglichkeit, den Code, den er als Schrittfolge vorgesetzt
+bekommt, zu interpretieren, er kann ihn nur exekutieren. Sofern die Maschine die
+Ergebnisse der Berechnung ebenfalls wieder als Zeichen ausgibt, ist es wiederum der
+menschliche Nutzer, der die berechneten Zeichen interpretiert, nicht die Maschine S.19
+
+Im Zuge der Programmierung findet ein
+Übersetzungsprozess statt, Denkprozesse werden in maschinelle Handlungsprozesse
+überführt. S.19
+
+
 - https://www.golem.de/news/programmcode-ist-das-kunst-1407-107871-2.html
 "Auch für Joseph Gray ist Code ein Werkzeug wie jedes andere - allerdings eins, das besondere Möglichkeiten bietet: interaktive, selbst generierende, vernetzte, datenverarbeitende Kunstwerke zu schaffen"
 "Er warte aber "seit Jahren darauf, dass Programmcode als Medium stärker respektiert wird".
