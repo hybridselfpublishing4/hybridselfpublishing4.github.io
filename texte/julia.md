@@ -38,10 +38,11 @@ Ist es widersprüchlich Digitales Auszudrucken?
 - Wieso Print, wenn wir es Digital haben können
 - Widerspruch? - Print wird aktualisiert ohne die eigentliche Form aufzugeben, Nicht widersprüchlich sondern ergänzend? -> Vereinfachung von Gestaltung von Print durch digitales, 
 
-Noch nicht perfekte These: Digitales und Print widersprechen sich nicht. Sie ergänzen  sich, ohne dem Printmedium die Ursprungsform zu stehlen.
+Noch nicht perfekte These: Digitales auzudrucken ist kein Widerspruch zur normalen Printform, es ist eine Aktualisierung die die alte Form nicht ausschließt. 
 
-- Ursprungsform welche?
+- Welche alte Form?
 - Ergänzung in welcher Form?
+- Wieso drucken wir digitales aus?
 
 Zitate:
 
