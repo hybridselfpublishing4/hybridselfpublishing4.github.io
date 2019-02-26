@@ -44,7 +44,7 @@ Noch nicht perfekte These: Digitales auzudrucken ist kein Widerspruch zur normal
 - Ergänzung in welcher Form?
 - Wieso drucken wir digitales aus?
 
-Diskussion wieso wir digitales ausdrucken, mir drei kleinen Thesen
+Diskussion wieso wir digitales ausdrucken, mit drei kleinen Thesen
 
 Zitate:
 
