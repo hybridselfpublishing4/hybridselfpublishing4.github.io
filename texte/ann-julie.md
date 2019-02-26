@@ -75,6 +75,22 @@ Im Zuge der Programmierung findet ein
 Übersetzungsprozess statt, Denkprozesse werden in maschinelle Handlungsprozesse
 überführt. S.19
 
+ In diesem Bild sind Codes das Scharnier, das menschliches Denken mit
+maschineller Handlung verbindet. S.19
+
+ Zwar bleibt die Unterseite der Medien – der Code – streng rational, doch an der
+Oberfläche – dem Interface – sind die Phänomene nun angereichert mit Unbeabsichtigtem und Nebeneffekten des symbolischen Operierens, die neue Interpretationsspielräume für den Nutzer eröffnen.13 Vernunftform und ästhetische Form gehen auf
+diese Weise eine untrennbare Verbindung ein S.20
+
+ In modernen Software-Werkzeugen wird der Entwicklungsprozess auf vielfältige Weise visuell als auch funktional unterstützt. In einem kooperativen Prozess schreiben die Werkzeuge am Code mit. S.20
+ 
+ Auf der Ebene des Codes treffen wir beim Programmieren nicht nur rationale Entscheidungen, sondern immer auch ästhetische. Wie stark soll die Linie des Kreises
+sein, welche Farben werden für Figur und Hintergrund gewählt, wie groß soll der
+Kreis im Verhältnis zur Gesamtfläche sein, welche Auflösung ist zu wählen? Diese
+ästhetischen Entscheidungen im Code werden aber auf die Materialität der Realisierung Rücksicht nehmen müssen. Und selbst die algorithmisch-rationalen Entscheidungen innerhalb des gewählten Algorithmus müssen auf die Materialität des Rechners eingehen, und zwar insofern, als möglicherweise Speicherplatz und zeitliches
+Verhalten Einfluss auf die Wahl haben werden. Codes sind somit ein Verbundwerkstoff, der immaterielle Algorithmen mit den materiellen Interfaces zu so etwas wie
+informiertem Material vereint. S.20
+
 
 - https://www.golem.de/news/programmcode-ist-das-kunst-1407-107871-2.html
 "Auch für Joseph Gray ist Code ein Werkzeug wie jedes andere - allerdings eins, das besondere Möglichkeiten bietet: interaktive, selbst generierende, vernetzte, datenverarbeitende Kunstwerke zu schaffen"
