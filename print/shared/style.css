@@ -20,8 +20,8 @@ p {
  /* text-overflow: ellipsis;*/
   word-break: break-all;
   overflow-wrap: break-word;  
-  line-height: 70mm; 
-  
+  line-height: 100mm; 
+  text-align-last: justify;
 }
 
 
