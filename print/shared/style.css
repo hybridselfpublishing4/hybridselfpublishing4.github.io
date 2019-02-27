@@ -5,7 +5,7 @@
 }
 
 :root {
-  font: 20px/1.2 serif;
+  font: 16px/1.2 serif;
   font-family: 'Arvo', serif;
 }
 
@@ -20,7 +20,7 @@ p {
  /* text-overflow: ellipsis;*/
   word-break: break-all;
   overflow-wrap: break-word;
-  line-height: 50mm;
+  line-height: 54mm;
   
   
 }
