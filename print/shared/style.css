@@ -5,7 +5,7 @@
 }
 
 :root {
-  font: 12px/1.2 serif;
+  font: 14px/1.2 serif;
   font-family: 'Arvo', serif;
 }
 
@@ -21,6 +21,8 @@ p {
   word-break: break-all;
   overflow-wrap: break-word;
   line-height: 55mm;
+  text-align: justify;
+  text-justify: inter-word;
   
   
 }
