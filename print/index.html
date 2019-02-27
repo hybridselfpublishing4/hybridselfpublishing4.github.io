@@ -27,6 +27,11 @@
   },
       rules: [
         Bindery.PageBreak({ selector: 'h1, h2, h3', position: 'before', continue: 'right' }),
+        Bindery.Split({
+          selector: 'p',
+          toNext: 'to-next',
+          fromPrevious: 'from-previous',
+        }),
         /*Bindery.Footnote({ selector: 'p' }),
         Bindery.Footnote({
           selector: 'p > a',
@@ -51,11 +56,7 @@
           }
         }),
         */
-        Bindery.Split({
-  selector: 'p',
-  toNext: 'to-next',
-  fromPrevious: 'from-previous',
-}),
+        
       ],
     });
   </script>
