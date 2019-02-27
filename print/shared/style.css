@@ -19,9 +19,7 @@ p {
   font-family: 'Arvo', serif;
  /* text-overflow: ellipsis;*/
   word-break: break-all;
-  overflow-wrap: break-word;
-  line-height: 50mm;
-  
+  overflow-wrap: break-word;  
   
 }
 
