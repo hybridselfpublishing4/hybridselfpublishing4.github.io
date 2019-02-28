@@ -1,0 +1,115 @@
+
+html {
+	overflow-x: hidden;
+	width: 100%;
+}
+
+body{
+
+    font-family: 'helvetica' , sans-serif;
+    display: block;
+    margin: 0px;
+    height: 1024px;
+	
+	
+    
+}
+
+
+button .comment { display: none; }
+button:hover .replies { display: none; }
+button:hover .comment { display: inline; }
+
+
+button {
+    font-family: 'helvetica' , sans-serif;
+    font-size: 50pt;
+    border-style: none;
+   /* margin: 0 auto;
+     text-align: center; */
+    width: 180%;
+    margin-top: 15px;
+    height: 60%;
+    z-index: 80;
+    position: relative;
+    background:transparent; 
+    transform: rotate(90deg);
+	padding-right: -20px;
+	
+}
+
+button:focus {
+	outline: none;
+}
+
+#text {
+    font-size: 1800pt; 
+    margin-top: -800px;
+
+}
+
+
+
+#timer{
+    margin-right: 50%;
+    margin-left: 50%;
+    margin-top:3%;
+    position: absolute;
+    font-size: 20px;
+	letter-spacing: 3px;
+
+}
+
+#dialogoverlay{
+	display: none;
+	opacity: .8;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background: #FFF;
+	width: 100%;
+	font-size: 25px;
+	z-index: 90;
+	
+}
+#dialogbox{
+	display: none;
+	position: fixed;
+	width:550px;
+	z-index: 100;
+	letter-spacing: 3px;
+	
+}
+
+#rectangle{
+    width:440px;
+    height:40px;
+    background:#CECECE;
+	position: absolute;
+	margin-top: 240px;
+}
+
+#rectangle2{
+    width:440px;
+    height:40px;
+    background:#CECECE;
+	position: absolute;
+	margin-top: 330px;
+}#rectangle3{
+    width:440px;
+    height:40px;
+    background:#CECECE;
+	position: absolute;
+	margin-top: 420px;
+}#rectangle4{
+    width:440px;
+    height:40px;
+    background:#CECECE;
+	position: absolute;
+	margin-top: 510px;
+}
+
+#dialogbox > div{ background:#FFF; margin:8px; border:solid; border-color: #CECECE;  padding: 40px;}
+#dialogbox > div > #dialogboxhead{ background: white; font-size:25px; padding:5px; color:#000; }
+#dialogbox > div > #dialogboxbody{ background:white; color:#000; padding: 0px;}
+#dialogbox > div > #dialogboxfoot{ background: white; padding-top:50px; padding-left:50px; padding-bottom: 50px; text-align:right; color:#000; }
