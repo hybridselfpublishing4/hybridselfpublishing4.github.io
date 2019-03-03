@@ -1,9 +1,7 @@
 
-# Code als Werkzeug
+# Code: Werkzeug++
 *Ann-Julie Grinat*
 
-- die wunderbare Welt des Coden: Schnittstelle im postdigitalen Zeitlalter
-- Code: Werkzeug++ 
 
 sind mehr möglichkeiten immer besser
 was macht ein werkzeug aus was i der unterschied zu einem normalen werkezug
@@ -13,42 +11,6 @@ Gegenargument , sind es zu viele möglichkeitem, buchdruck war viel überlegter?
 Beispiele suchen, gibt der code einem den weg vor, ist das verführeisch
 Inwieweit erweitert Code die Ausdrucksweisen von Kreativität?
 Ende:  muss man es behrrschen? Spielwiese? Position beziehen!
-
-
-One Minute
-- Code ermöglicht es Gedankengänge neu zu visualisieren
-- experimentell
-- ungeahnte Möglichkeiten
-- neues Tool um sich kreativ ausleben zu können
-- Games, interaktive Installationen, individualisierbar/personalisierbar
-
-Was ist Kreativität?
-
-- etwas erschaffen was von nutzen ist?
-- Problemlösung
-- Schöpfung
-- je nach Tool oder Werkzeug arbeite ich unterschiedlich kreativ und finde unterschiedliche Lösungen > erweitern und begrenzen damit die Möglichkeiten Kreativität ausleben zu können
-- Design, Kunst, Technik?! Wieso ist die Verbindung zu den zwei Themenbreichen für so viele Menschen unklar?
-
-Code als Werkzeug?
-
-- ist unbegrenzt erweiterbar und teilbar mit anderen
-- Möglichkeiten müssen noch weiter ausgetestet werden 
-- Angst vor Coden?!
-- Code ist ein Synonym für Schlüssel
-- Code Bibliotheken für Designer: https://animejs.com, https://threejs.org, http://paperjs.org, https://p5js.org, bindery.js
-- X Videos übers Coden > teilen von Fähigkeiten 
-- neue Interaktionsmöglichkeiten
-- künstliche Intelligenz
-- man kann unendlich viele Fehler machen, da man diesen mit schnell wieder löschen/rückgängig machen kann. bei welchem Werkzeug hat man diesen Luxus?
-
-Wie möchte ich das Thema vermitteln?
-
-- Das Thema soll zugänglicher werden und dem Leser die Angst vorm Coden nehmen?
-- Trend, Geschichte, Vorausschau?
-- alle wollen dass es immer nur schön aussieht und funktioniert aber nicht die Technik dahinter verstehen
-
-Wie kann ich dieses Thema spezifisch auf Hybridpublishing oder Selfpublishing anwenden?
 
 
 Quellen: 
