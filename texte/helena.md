@@ -1,6 +1,5 @@
 
-# Professionalisierung von Selbst publizierten Texten/Büchern --> ist eine Professionalisierung in jedem Fall gewollt?
-hybrides Selbstpublizieren.
+# Die DIY Ästhetik im Selfpublishing. Wie hat sie sich im Laufe der Geschichte verändert und ist die Motivation dahiniter noch immer dieselbe?
 
 *Helena Hagemeier*
 
@@ -17,16 +16,17 @@ Amazon books: auch schnell und günstig
 
 These: Professionelle in Frage stellen mit der Ästhetik des Unprofessionellen. Was gibt es heute? - Vergleich.
 
-Heute: Grenzen sprengen: wirkt unprofessionell, ist aber Kommentar. Vergleich zu den 70er Jahren. 
+Heute: Grenzen sprengen: wirkt unprofessionell, ist aber Kommentar. Vergleich zu den 70er Jahren -- Punkszene. 
 
 
 
 Einleitung
-Viele selbst publizierte Texte wirken sehr professionell und können kaum von Verlagstexten unterschieden werden. Andere hingegen scheinen schnell produziert und amateurhaft publiziert zu werden. Meine zentrale Frage ist, ob sich diese Texte bewusst der Ästhetik des Unprofessionellen bedienen und welche Gründe es dafür gibt. 
+Viele selbst publizierte Texte wirken sehr professionell und können kaum von Verlagstexten unterschieden werden. Andere hingegen scheinen schnell produziert und amateurhaft publiziert zu werden. Bereits in den 70er Jahren prägte die Punk Bewegung selbst publizierte Texte durch eine amateurhafte Ästhetik, die nicht mit professionell verlegten Texten zu vergeleichen waren. Durch die heutige Möglichkeit, Texte digital oder auch hybrid zu publizieren, enstand eine ganz eigene Ästhetik, die sich zwar ebenfalls von Verlagsbüchern unterscheidet, aber auch mit den Heftchen aus den 70er Jahren  nicht viel gemein hat. 
 
 
 Hauptteil 
-Im Laufe der Geschichte stiegen die Möglichkeiten eigene Texte zu veröffentlichen und die eigenen Interessen damit voranzubringen. Das Buch diente somit schon Gutenberg dazu, seine persönlichen Erfahrungen zu speichern und zu verbreiten (Rühl (1999): 72). Dies ist auch das Hauptziel vieles Autoren, die ihre Texte selbst publizieren (). Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon (), liegt ihr Interesse nicht im wirtschaftlichen Erfolg. Sie sehen ihre Texte nicht als Verkaufsware(), sondern als Medium, um den Inhalt zu verbreiten und diesen jedermann zugänglich zu machen(). Um das möglich zu machen, ist es nötig, den Verkaufspreis möglichst gering zu halten. Dies wäre nicht möglich, wenn sie ihre Texte möglichst professionell verbreiten würden und widerspräche auch ihrem Gedanken, die Inhalte zu verbreiten und keine Sammlerstücke daraus zu machen().
+Im Laufe der Geschichte stiegen die Möglichkeiten eigene Texte zu veröffentlichen und die eigenen Interessen damit voranzubringen. Das Buch diente somit schon Gutenberg dazu, seine persönlichen Erfahrungen zu speichern und zu verbreiten (Rühl (1999): 72). Dies ist auch das Hauptziel vieles Autoren, die ihre Texte selbst publizieren (). Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon (), liegt ihr Interesse nicht im wirtschaftlichen Erfolg. Sie sehen ihre Texte nicht als Verkaufsware(), sondern als Medium, um den Inhalt zu verbreiten und diesen jedermann zugänglich zu machen(). 
+
 
 
 Schluss
