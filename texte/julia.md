@@ -77,8 +77,8 @@ Buchdruck. Solche erlauben es trotzdem, dass Charakteristika wie physisch, Siche
 fortbestehen. Dabei soll Print bewusst nicht digitale Versionen nachahmen, sonder sie viel mehr ergänzen. Weswegen die 
 Tatsache, dass wir digitale Versionen drucken schließlich absolut nicht Absurd ist.
 Ludovico vereint diese Erkenntnis sehr gut in diesen abschließend Worten: 
-"Nevertheless, the role of the printed page has radically mutated, from being a prevalent medium in its own right, to being a 
-complementary medium, sometimes used as a static repository of electronic content" (Ludovico 2012: 29). 
+
+> "Nevertheless, the role of the printed page has radically mutated, from being a prevalent medium in its own right, to being > a complementary medium, sometimes used as a static repository of electronic content" (Ludovico 2012: 29). 
 
 ### Anmerkungen 
 
