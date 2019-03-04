@@ -90,7 +90,7 @@ sollte man verstehen und als Werkzeug++ anwenden können.
 
 
 
-Quellen:
+**Quellen:**
 
 Bajohr, Hannes (2016): Code und Konzept: Literatur und das Digitale, Frommann Verlag, Berlin
 
