@@ -8,7 +8,7 @@ getroffen wurde (vgl. Ludovico 2012: 15). Anscheinend ist das Printmedium also a
 Medienwelt nicht einfach mal eben wegzudenken. Bajohr bezeichnet das Printmedium als Endprodukt von digitalen 
 Herstellungstechniken, welches auf Grund der Tatsache das Print heutzutage meist vorab digital erstellt wird und wir es erst 
 anschließend ausdrucken durchaus berechtigt ist (Bajohr 2016: 79). Stellt sich nur die Frage: Wieso benutzen wir dann das 
-Printmedium überhaupt noch? Ist es nicht sogar absurd unsere bereits digital festgehaltenen/ gespeicherten/ lesbaren Daten, 
+Printmedium überhaupt noch? Ist es nicht sogar absurd unsere bereits digital festgehaltenen/gespeicherten/ lesbaren Daten, 
 Informationen etc. zusätzlich noch als Printmedium zu benutzen. Diesen Widerspruch beschreibt Ludovico auf der einen Seiten 
 als Aktualisierung der zeitlosen und unveränderlichen gedruckten Seite, andererseits ist die gedruckte physisch zuverlässige 
 Seite für die heutige digitale Generation zur einer wertvollen Ressource geworden (vgl. Ludovico 2012: 8).
