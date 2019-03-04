@@ -62,13 +62,12 @@ auf der man sich probieren und austoben kann, gesehen werden. Coden kann auch ki
 werden, wenn man einmal den Mut findet seine Angst davor zu überwinden. Fehler sind immer ein Teil der Lösung und oftmals 
 entstehen dabei unerwartete, andere Möglichkeiten die man vorher noch gar nicht in Betracht gezogen hat. 
 Im Selfpublishing sind somit auch neue Wege zur Gestaltung von Büchern und E-Books möglich. Der Umgang damit muss nicht nur 
-experimenteller Art sein. Code erfordert, ebenso wie eine Druckerpresse, viel Eigeninitiative und Ausdauer um sein Werk 
-fertigstellen zu können. Auf der anderen Seite besitzt es aber auch die Leichtigkeit durch eine gewisse Eigendynamik, die bei 
-anderen Werkzeugen nicht in der Intensität zu finden ist. Wenn sich diese zwei Komponenten vereinen kann eine neue Formsprache 
-entwickelt werden. Wieder mehr Wertigkeit, mehr Sicherheit für den eigenen Kontent und mehr Gestaltungsmöglichkeiten. Dies ist 
-nur eine kleine Auflistung dessen was alles möglich ist. Fakt ist aber dass man konkret dass man mit Code konkret das 
-ausarbeiten kann was man sich für sein Konzept vorgestellt hat. Man ist durch kein Risiko oder durch ein Programm limitiert, 
-sondern kann komplett frei von diesen Faktoren arbeiten.
+experimenteller Art sein. Code erfordert viel Eigeninitiative und Ausdauer um sein Werk fertigstellen zu können. Ebenso wie 
+eine Druckerpresse. Durch eine gewisse Eigendynamik des Codes besitzt er aber auch auf der anderen Seite eine Leichtigkeit, 
+die auch bei Programmen zu finden. Wenn sich diese zwei Komponenten vereinen kann eine neue Formsprache entwickelt werden. 
+Wie diese dann genau aussieht ist abhängig von dem Jenigen der den Code schreibt. Fakt ist aber dass man mit Code konkret das 
+ausarbeiten kann was man sich für sein Konzept vorgestellt hat. Der eine möchte wieder mehr Wertigkeit, der anderen mehr 
+Sicherheit für seinen Kontent.
 
 Die Werkzeuge zur Selbstpublikation haben somit einen langen Weg hinter sich. Begleitet von Eingrenzungen und limitierten 
 Möglichkeiten. Durch diese hat sich im Laufe der Zeit nicht nur das Medium der Gestaltung und der Ausgabe verändert, sondern 
@@ -79,6 +78,10 @@ Selfpublisher gibt es unter anderem die Gestaltungsbibliothek Binder.js. Das pos
 warscheinlich unsere Welt immer weiter digitalisieren. Somit wird es auch immer wichtiger die Schnittstellen zur Kommunikation 
 zu betrachten, zu erforschen und mit zu gestalten. Code ist die Sprache dies postdigitalen Zeitalters. Man sollte diese 
 Sprache verstehen und als Werkzeug++ anwenden können. 
+
+
+
+
 
 
 
