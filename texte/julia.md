@@ -49,8 +49,8 @@ wirklich von jeder digitalen Version befriedigt?Goldsmith (2018: 100 f) redet vo
 erläutert er am Beispiel der Zeitung New York Times, welche in der Webversion für in verkleidet erscheint durch Werbung, eine 
 andere Fotoplatzierung, eine andere Schrift und erst in der nackten Printversion beständig wird. Kurz: „Die Netzversion des 
 Artikels könnte man dürftig bekleidet nennen: Ihr fehlen die autoritativen Abzeichen der traditionellen Printausgabe“ 
-(Goldsmith 2018: 102). Folglich sind unsere traditionellen Erwartungen an eine Seite genauso ausschlaggebend für uns, dass wir 
-zur Printversion zurückgreifen.
+(Goldsmith 2018: 102). Folglich sind unsere traditionellen Erwartungen an eine Seite genauso ausschlaggebend für uns, um auf 
+die Printversion zurückgreifen.
  
 
 
