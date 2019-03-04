@@ -31,6 +31,30 @@ Weitere Themen, mit denen sich Autoren heutzutage in ihren Publikationen beschä
 
 Die aufgeführten Beispiele für selbstpublizierte Texte unterscheiden sich auf den ersten Blick sehr voneinander. Sowohl ihre Ästhetik, als auch ihr Inhalt weichen stark voneinander ab. Doch alle erwähnten Publikationen hatten das Ziel, sich von den kommerziellen Veröffentlichungen abzuheben, um ihre Kritik an der Gesellschaft zu verbreiten. Im Gegensatz zu kommerziell ausgerichteten Unternehmen wie Amazon, liegt ihr Interesse nicht im wirtschaftlichen Erfolg (vgl. Weinmayr 2016: 169). Sie sehen ihre Texte nicht als Verkaufsware, sondern als Medium, um ihre Ansichten zu verbreiten und diese jedermann zugänglich zu machen (vgl. Triggs 2006: 81). Des Weiteren vereint alle Publikationen die Tatsache, dass es bei ihrer Entstehung nicht alleine um den Inhalt ging, sondern dass auch großer Wert auf das Design und die damit verbundene Ästhetik gelegt wurde. Die „DIY-Ästhetik“ (Triggs 2006: 69) spiegelt sich in allen hier aufgeführten Beispielen wider. Eine weitere Gemeinsamkeit der Texte ist, dass die Autoren durch die Selbstpublikation mehr Kontrolle sowohl über ihre Inhalte, als auch deren Darstellung haben. Sie sind nicht abhängig von Verlagen und können den Lesern ihre Texte auf die Art bereitstellen, wie sie es für richtig halten. 
 
-Literaturverzeichnis:
 
 
+### Literaturverzeichnis
+
+* Armstrong, Jayne (2009): DIY Feminism: A Dialogical Account. Unpublished Thesis (Ph.D.), University of East London. 
+
+* Bajohr, Hannes (2016): Infradünne Plattformen. Print-on-Demand als Strategie und Genre, in: Merkur, 70. Jahrgang, Heft 800, S. 79 – 87.
+
+* Cabell, Mimi; Huff, Jason (2013): American Psycho, Deutschland, TRAUMAWIEN.
+
+* Chidgey, Red (2014): Developing communities of resistance? Maker pedagogies, Do-It-Yourself feminism, and DIY citizenship, in: Boler, Megan; Ratto, Matt (Hrsg.), DIY Citizenship: critical making and social media, Cambridge Massachusetts, The MIT Press, S. 101 – 113
+
+* Dworkin, Craig; Gilbert, Annette; Morris, Simon; Soto, Carlos; Thurston, Nick (2013): Do or DIY, 1. Auflage, Salon Verlag.
+
+* Gilber, Annette (2018): Vom Rand ins Zentrum – Vom Buch zum Publizieren. Tendenzen künstlerischer Publikationspraxis, [online] https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de [04.03.2019]
+
+* Hagenmüller, Moritz; Künzel, Friederike (2009): Print-on-Demand – Neue Chancen für Verleger und Autoren, in: Blömeke, Eva; Clement, Michel; Sambeth, Frank (Hrsg.), Ökonomie der Buchindustrie. Herausforderungen in der Buchbranche erfolgreich managen. 1. Auflage, Wiesbaden, GWV Fachverlag GmbH, S. 259 – 271.
+
+* Keller, Jean (2013a): The Black Book, Selbstverlag, Lulu.
+
+
+* Keller, Jean (2013b): The Black Book, [online] http://www.lulu.com/shop/jean-keller/the-black-book/paperback/product-21008894.html [04.03.2019].
+
+
+* Triggs, Teal (2006): Scissors and Glue: Fanzines and the Cration of a DIY Aesthetic, in: Oxford University Press on behalf of Design History Society (Hrsg.), Journal of Design History, Vol. 19, No. 1, Do It Yourself: Democracy and Design, Spring, S. 69 – 83.
+
+* Weinmayr, Eva (2016): Library Underground – A Reading List for A Coming Community, in: Gilbert, Annette (Hrsg.), Publishing as Artistic Practice,  2. Auflage, Berlin: Sternberg Press, S. 250 – 281.
