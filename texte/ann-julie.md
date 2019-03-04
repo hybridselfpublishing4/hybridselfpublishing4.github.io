@@ -25,6 +25,8 @@ Eigeninitiative erforderte. Doch oftmals wurden literarische Werk erst Jahrzehnt
 Weiterhin hat sich die Druckerpresse als Werkzeug weiter entwickelt. Die Druckerpresse als Werkzeug wurde vom Computer, seinem
 Display, seinen Programmen und dem Drucker abgelöst. Diese sind kein einfaches Werkzeug mehr sondern ein Werkzeug+. 
 > "Heute verändern die digitalen Dateien, die als Datenpakete das Internet überfluten, erneut unser Verständnis davon, was Schreiben ausmacht. Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen gefiltert, archiviert und mit anderen geteilt werden kann. Sprache ist ein binärer Code in Bewegung von Laufwerk zu Server zu Laufwerk." (Dworkin et al. 2013: 22). 
+
+
 Werkzeuge+ erweitern nicht nur den Körper sondern auch den Geist. Sie bieten mehr
 Freiheiten und Möglichkeiten etwas zu erschaffen und vereinfachen den Prozess des Publizierens. Es sind keine großen Ausgaben
 mehr von Nöten, weil man theoretisch alles selber machen und sein fertiges Werk dann online publizieren kann. Das bedeutet
