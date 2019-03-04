@@ -60,13 +60,12 @@ Augen, durchs lesen, wahrgenommen sondern vor allem durch unseren Tastsinn. Dadu
 fassen ist Print wesentlich präsenter für uns. Obwohl durch die Digitalisierung und dem Internet Wissen förmlich im Überfluss 
 für jeden zugänglich sind, sind abstrakte Datenmengen von digitalen Dateien für die meisten Fremdwörter. Ein Buch oder Papier  
 dagegen ist für jeden eine plausible und bekannte Maßeinheit.
-Sicherheit - Im schnellen Alltag des digitalen Zeitalters, in 
-dem durch kleine einfache Mausklicks ein Text komplett neue Formate, Dimension oder auch Inhalte annehmenden kann. Bietet 
-Print einen kurzweilige Ausstieg, aufgrund der Option des Druckens die uns eine nicht mehr veränderliche Version eines 
-bestimmten Zeitpunktes zum archivieren kreiert. Erwartungen an eine Seite - Webversionen von zum Beispiel Artikeln sind im 
-allgemeinen zahlreich mit Werbung übersehen, hinsichtlich der Typografie und des Layouts unterscheiden sie sich ebenfalls 
-zunehmende zur Printversion. Dies kann mit unseren traditionellen Vorstellung der zeitlosen Seite nicht kompatibel 
-sein.
+Sicherheit - Im schnellen Alltag des digitalen Zeitalters, in dem durch kleine einfache Mausklicks ein Text komplett neue 
+Formate, Dimension oder auch Inhalte annehmenden kann. Bietet Print einen kurzweilige Ausstieg, aufgrund der Option des 
+Druckens die uns eine nicht mehr veränderliche Version eines bestimmten Zeitpunktes zum archivieren kreiert.
+Erwartungen an eine Seite - Webversionen von zum Beispiel Artikeln sind im allgemeinen zahlreich mit Werbung übersehen, 
+hinsichtlich der Typografie und des Layouts unterscheiden sie sich ebenfalls zunehmende zur Printversion. Dies kann mit 
+unseren traditionellen Vorstellung der zeitlosen Seite nicht kompatibel sein.
 Genauer betrachtet sollte die Fragestellung allerdings viel mehr lauten: Müssen wir uns überhaupt zwischen Digitalen und 
 Print entscheiden? Bzw. würde Print uns zusätzlich neben der Digitalen Versionen nochmal das gleiche bieten? Eindeutig: Nein. 
 „As they struggle for survival, they must rapidly evolve and adapt to an ever-changing media environment“ (Ludovico 2012: 8). 
