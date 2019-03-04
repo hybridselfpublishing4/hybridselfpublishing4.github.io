@@ -11,7 +11,7 @@ Signalprozesse im Rechner die Kraft, vom Programmierer vorgedachte symbolische O
 (Trogemann 2010: 18). Sie erzeugen etwas Greifbares aus der Vorstellungskraft und sind dabei ohne Limit erweiterbar. Daher
 sind Codes auch mehr als nur ein einfaches Werkzeug. 
  
-Bei Code denkt man meist an die Programmierung von Maschinen, Computern, etc.. Es hat sich ein Bild festgesetzt welches eine
+Bei Code denkt man meist an die Programmierung von Maschinen, Computern, etc.. Es hat sich ein Bild, festgesetzt welches eine
 reine Funktionalität des Codes beinhaltet. "In den Worten Goldsmiths: 'Die Idee wird zu einer Maschine, die den Text
 herstellt.' Die Wahrheit dieser Metapher liegt darin, dass sie wörtlich zu verstehen ist: Es gibt solche Maschinen. Sie heißen
 Computer." (Bajohr 2016a: 11 f.). 
@@ -21,15 +21,15 @@ Selfpublishing betrachten. "1517 veröffentlichte Martin Luther seine 95 Thesen 
 der Schlosskirche zu Wittenberg. Seine Freunde nutzten die neueste technische Errungenschaft, die Druckerpresse, um
 Übersetzungen der Thesen in ganz Europa zu verbreiten. Sie leiteten die Reformation ein." (Dworkin et al. 2013: 9). Die
 Druckerpresse agierte zu dieser Zeit als Werkzeug zum Publizieren. Es war nicht nur viel aufwändiger, sondern auch viel
-schwerer , risikoreicher und kostenintensiver ein Buch zu publizieren als heute. Es war ein sehr großer Aufwand der viel
+schwerer, risikoreicher und kostenintensiver ein Buch zu publizieren als heute. Es war ein sehr großer Aufwand der viel
 Eigeninitiative erforderte. Doch oftmals wurden literarische Werk erst Jahrzehnte später wertgeschätzt.
 \
-Weiterhin hat sich die Druckerpresse als Werkzeug weiter entwickelt. Die Druckerpresse als Werkzeug wurde vom Computer, seinem
-Display, seinen Programmen und dem Drucker abgelöst. Diese sind kein einfaches Werkzeug mehr sondern ein Werkzeug+. 
+Weiterhin hat sich die Druckerpresse als Werkzeug weiterentwickelt. Die Druckerpresse als Werkzeug wurde vom Computer, seinem
+Display, seinen Programmen und dem Drucker abgelöst. Diese sind kein einfaches Werkzeug mehr, sondern ein Werkzeug+. 
 > "Heute verändern die digitalen Dateien, die als Datenpakete das Internet überfluten, erneut unser Verständnis davon, was Schreiben ausmacht. Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen gefiltert, archiviert und mit anderen geteilt werden kann. Sprache ist ein binärer Code in Bewegung von Laufwerk zu Server zu Laufwerk." (Dworkin et al. 2013: 22). 
 
 
-Werkzeuge+ erweitern nicht nur den Körper sondern auch den Geist. Sie bieten mehr
+Werkzeuge+ erweitern nicht nur den Körper, sondern auch den Geist. Sie bieten mehr
 Freiheiten und Möglichkeiten etwas zu erschaffen und vereinfachen den Prozess des Publizierens. Es sind keine großen Ausgaben
 mehr von Nöten, weil man theoretisch alles selber machen und sein fertiges Werk dann online publizieren kann. Das bedeutet
 weniger Risiko und mehr Möglichkeiten der eigenen Gestaltungsfreiheit. 
@@ -52,7 +52,7 @@ limitieren einen indem was man machen will. Und ich finde es ist viel interessan
 Werkzeug zu limitieren, sondern zuerst mal fragen: Was will man eigentlich machen? Und dann kann man sich das Werkzeug
 gegebenenfalls selber bauen. Also die Werkzeuge sind nicht nur Mittel zum Zweck, sondern sind auch dafür da, um ne' Erkenntnis
 zu bekommen, oder ne’ Neuerkenntnis zu bekommen. Oft indem man ein Werkzeug baut und das ausprobiert. Dann kommt erst der
-nächste Schritt. Und man kann es aber ändern wenn man an es selber gemacht hat. Kann, der ein wirklich [sic], an der ein oder
+nächste Schritt. Und man kann es aber ändern, wenn man an es selber gemacht hat. Kann, der ein wirklich [sic], an der ein oder
 anderen Schraube drehen und da wird's dann eigentlich spannend." (Gieselmann 2015: 14‘50“).
 
 Doch auch Coden kann limitierend 
@@ -64,22 +64,22 @@ immer Denkfehler und nie Materialfehler im physikalischen Sinn. Denkfehler entst
 sich ein Programmierer vom seinem Code macht, nicht mit den Funktionen übereinstimmen, die der Code tatsächlich berechnet."
 (Trogemann 2010: 19). 
 
-Der Prozess des Coden läuft daher oft nach dem Prinzip von Trial and Error ab. Das bedeutet dass es darum geht etwas auszuprobieren, zu scheitern und daran zu wachsen. Doch liegt vor allem im Fehler machen der Schlüssel 
+Der Prozess des Codens läuft daher oft nach dem Prinzip von Trial and Error ab. Das bedeutet, dass es darum geht etwas auszuprobieren, zu scheitern und daran zu wachsen. Doch liegt vor allem im Fehler machen der Schlüssel 
 zum Erfolg. Code hat zwar sehr sachliche, funktionale und technische Aspekte, jedoch sollte er vielmehr als eine Spielwiese,
 auf der man sich probieren und austoben kann, gesehen werden. Coden kann auch kindlich, spielerisch und intuitiv verwendet 
 werden, wenn man einmal den Mut findet seine Angst davor zu überwinden. Fehler sind immer ein Teil der Lösung und oftmals 
 entstehen dabei unerwartete, andere Möglichkeiten die man vorher noch gar nicht in Betracht gezogen hat. 
 Im Selfpublishing sind somit auch neue Wege zur Gestaltung von Büchern und E-Books möglich. Der Umgang damit muss nicht nur 
-experimenteller Art sein. Code erfordert viel Eigeninitiative und Ausdauer um sein Werk fertigstellen zu können, ebenso wie 
+experimenteller Art sein. Code erfordert viel Eigeninitiative und Ausdauer, um sein Werk fertigstellen zu können, ebenso wie 
 eine Druckerpresse. Durch eine gewisse Eigendynamik des Codes besitzt er aber auch auf der anderen Seite eine Leichtigkeit, 
 die auch bei Programmen zu finden. Wenn sich diese zwei Komponenten vereinen kann eine neue Formsprache entwickelt werden. 
-Wie diese dann genau aussieht ist abhängig von dem Jenigen der den Code schreibt. Fakt ist aber dass man mit Code konkret das 
+Wie diese dann genau aussieht ist abhängig von demjenigen der den Code schreibt. Fakt ist aber, dass man mit Code konkret das 
 ausarbeiten kann was man sich für sein Konzept vorgestellt hat. Der eine möchte wieder mehr Wertigkeit, der anderen mehr 
-Sicherheit für seinen Kontent.
+Sicherheit für seinen Content.
 
 Die Werkzeuge zur Selbstpublikation haben somit einen langen Weg hinter sich. Begleitet von Eingrenzungen und limitierten 
 Möglichkeiten. Durch diese hat sich im Laufe der Zeit nicht nur das Medium der Gestaltung und der Ausgabe verändert, sondern 
-auch die Formsprache dieser. Den nächste Schritt in der Geschichte der Werkzeuge wird der Code als Werkzeug++ machen. Doch 
+auch die Formsprache dieser. Den nächsten Schritt in der Geschichte der Werkzeuge wird der Code als Werkzeug++ machen. Doch 
 scheint der Zugang zum Code für viele verschlossen und der Aufwand zu groß, um dieses Schloss zu knacken. Das Internet bietet
 jedoch unzählige Erklärvideos, Open-Source Codes und Bibliotheken für verschiedenste Gestaltungsbereiche. Insbesondere für
 Selfpublisher gibt es unter anderem die Gestaltungsbibliothek Binder.js. Das postdigitale Zeitalter schreitet voran und wird 
