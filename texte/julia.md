@@ -34,10 +34,10 @@ die nur begrenzte Aktualisierung von Print eine Tatsache ist am Print festzuhalt
 Dworkin, Gilbert, Morris, Soto und Thurston wird sehr gut erläutert, wie schnell und einfach heutzutage mit digitalen Texte 
 umgegangen wird:
 
-Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden 
+<small>Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden 
 kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und 
 eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen 
-gefiltert, archiviert und mit anderen geteilt werden kann (Dworkin et al. 2013: 22).
+gefiltert, archiviert und mit anderen geteilt werden kann (Dworkin et al. 2013: 22).<small>
 
 Daran wir deutlich, dass im gegenwärtigen digitalen Zeitalter der Umgang mit digitalen Texten eine Vielzahl von Möglichkeiten 
 bietet, darüber hinaus jedoch ebenso wie einfach  und schnell mein digital vorgemerkter Text von heute morgen vielleicht schon 
