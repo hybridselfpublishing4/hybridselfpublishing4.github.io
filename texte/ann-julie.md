@@ -31,23 +31,29 @@ Werkzeuge+ erweitern nicht nur den Körper sondern auch den Geist. Sie bieten me
 Freiheiten und Möglichkeiten etwas zu erschaffen und vereinfachen den Prozess des Publizierens. Es sind keine großen Ausgaben
 mehr von Nöten, weil man theoretisch alles selber machen und sein fertiges Werk dann online publizieren kann. Das bedeutet
 weniger Risiko und mehr Möglichkeiten der eigenen Gestaltungsfreiheit. 
-“Als Nebeneffekt hat sich eine Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten
-werden. Dies ist weniger Ausdruck ökonomischen Kalküls als vielmehr eine dem postdigitalen Zeitalter angemessene Strategie,
-bei der sich beide Formate zu einer konzeptuellen Einheit verbinden." (Gilbert 2018: 66).
+> “Als Nebeneffekt hat sich eine Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten werden. Dies ist weniger Ausdruck ökonomischen Kalküls als vielmehr eine dem postdigitalen Zeitalter angemessene Strategie, bei der sich beide Formate zu einer konzeptuellen Einheit verbinden." (Gilbert 2018: 66).
+
+
 Dennoch sind vorgefertigte Programme limitiert. Sie wurden zwar als Lösung von Problemen entwickelt, können jedoch nicht für
-immer als Lösung dienen, da immer wieder neue Herausforderungen und Probleme auftreten werden. "Wie einst die russische
+immer als Lösung dienen, da immer wieder neue Herausforderungen und Probleme auftreten werden. 
+> "Wie einst die russische
 Avantgarde den bibliophilen Luxusausgaben der Symbolisten und des Jugendstils ihre 'Anti-' und 'Wegwerfbücher' entgegensetzte,
 vollzieht ein Teil der gegenwärtig sich als Avantgarde apostrophierenden Literatur- und Kunstszene die größtmögliche
 Kehrtwende: weg vom schönen, wertigen Objekt hin zum übel beleumundeten, als Hort der Vanity-Press verrufenen, wenig
 Gestaltungsspielraum bietenden, billig und industriell gefertigten, schlecht gemachten PoD-Buch." (Gilbert 2018: 66).
+
+
 Code hingegen ist flexibler und kann individuell für jedes Konzept, oder jedes Problem, angefertigt werden. Deswegen kann man
-Code als Werkzeug++ bezeichnen. Im Podcast Formfunk hat Gieselmann etwas Interessantes dazu gesagt: “Bestehende Werkzeuge
+Code als Werkzeug++ bezeichnen. Im Podcast Formfunk hat Gieselmann etwas Interessantes dazu gesagt: 
+> “Bestehende Werkzeuge
 limitieren einen indem was man machen will. Und ich finde es ist viel interessanter, sich nicht aufgrund von nem’ bestehenden
 Werkzeug zu limitieren, sondern zuerst mal fragen: Was will man eigentlich machen? Und dann kann man sich das Werkzeug
 gegebenenfalls selber bauen. Also die Werkzeuge sind nicht nur Mittel zum Zweck, sondern sind auch dafür da, um ne' Erkenntnis
 zu bekommen, oder ne’ Neuerkenntnis zu bekommen. Oft indem man ein Werkzeug baut und das ausprobiert. Dann kommt erst der
 nächste Schritt. Und man kann es aber ändern wenn man an es selber gemacht hat. Kann, der ein wirklich [sic], an der ein oder
-anderen Schraube drehen und da wird's dann eigentlich spannend." (Gieselmann 2015: 14‘50“). Doch auch Coden kann limitierend 
+anderen Schraube drehen und da wird's dann eigentlich spannend." (Gieselmann 2015: 14‘50“).
+
+Doch auch Coden kann limitierend 
 sein. Dies liegt dann viel mehr an der eigenen Fähigkeit als an einem technischen Problem. Wenn man selber noch nicht gecodet
 hat ist es schwierig den Zugang diesbezüglich zu finden. Codes sind keine gesprochene Sprache und sie induzieren auch nicht
 sofort Gedankenverknüpfungen in unserem Gehirn. "Fehler, die im Zusammenhang mit Programmcodes auftreten, sind deshalb auch
