@@ -92,9 +92,9 @@ sollte man verstehen und als Werkzeug++ anwenden können.
 
 **Quellen:**
 
-Bajohr, Hannes (2016): Code und Konzept: Literatur und das Digitale, Frommann Verlag, Berlin
+ Bajohr, Hannes (2016): Code und Konzept: Literatur und das Digitale, Frommann Verlag, Berlin
 
-Dworkin, Craig; Gilbert, Annette; Morris, Simon; Soto, Carlos; Thurston, Nick (2013): Do or DIY - Zur Geschichte und Praxis des Selbstverlags, Salon Verlag, Köln
+ Dworkin, Craig; Gilbert, Annette; Morris, Simon; Soto, Carlos; Thurston, Nick (2013): Do or DIY - Zur Geschichte und Praxis des Selbstverlags, Salon Verlag, Köln
 
 Gieselmann, Matthias (2015): Folge 4, Andreas Muxel, Sprechende Dinge - Räume, Code, Gefühl [online] https://formfunk-podcast.de/interviews/andreas-muxel [04.03.2019]
 
