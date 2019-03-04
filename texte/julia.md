@@ -43,7 +43,15 @@ Daran wir deutlich, dass im gegenwärtigen digitalen Zeitalter der Umgang mit di
 bietet, darüber hinaus jedoch ebenso wie einfach  und schnell mein digital vorgemerkter Text von heute morgen vielleicht schon 
 eine andere Form annehmen kann. Eine gedruckte Version meines digitalen Textes, kurz Print, schafft demzufolge Sicherheit. 
 Sicherheit in dem Sinne, dass an der Printversion, die zu einem bestimmten Zeitpunkt ausgedruckt wurde, kein Fremder mehr 
-Veränderungen dran vornehmen kann. 
+Veränderungen dran vornehmen kann.
+Im Übrigen, um nochmal auf die Aussage von Ludovico zurückzukommen, werden unsere traditionellen Erwartung an ein Seitenlayout 
+wirklich von jeder digitalen Version befriedigt?Goldsmith (2018: 100 f) redet von nackten und bekleideten Medien, dies 
+erläutert er am Beispiel der Zeitung New York Times, welche in der Webversion für in verkleidet erscheint durch Werbung, eine 
+andere Fotoplatzierung, eine andere Schrift und erst in der nackten Printversion beständig wird. Kurz: „Die Netzversion des 
+Artikels könnte man dürftig bekleidet nennen: Ihr fehlen die autoritativen Abzeichen der traditionellen Printausgabe“ 
+(Goldsmith 2018: 102). Folglich sind unsere traditionellen Erwartungen an eine Seite genauso ausschlaggebend für uns, dass wir 
+zur Printversion zurückgreifen.
+ 
 
 
 
