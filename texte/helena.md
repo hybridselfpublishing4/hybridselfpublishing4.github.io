@@ -1,5 +1,6 @@
 
-# DIY Ästhetik im Selfpublishing. Wie hat sie sich im Laufe der Geschichte verändert und ist die Motivation dahiniter noch immer dieselbe?
+# DIY Ästhetik im Selfpublishing. 
+## Wie hat sie sich im Laufe der Geschichte verändert und ist die Motivation dahiniter noch immer dieselbe?
 
 *Helena Hagemeier*
 
