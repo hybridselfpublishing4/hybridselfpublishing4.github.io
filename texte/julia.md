@@ -81,7 +81,7 @@ in diesen abschließend Worten:
 Nevertheless, the role of the printed page has radically mutated, from being a prevalent medium in its own right, to being a 
 complementary medium, sometimes used as a static repository of electronic content (Ludovico 2012: 29). 
 
-# Anmerkungen
+## Anmerkungen
 Ludovico, Alessandro (2012):Post-digital Print: The Mutation of Publishing Since 1894, Niederlande: Onomatopee 77.
 Goldsmith, K (2017): Uncreative Writing: Sprachmanagement im digitalen Zeitalter. Erweiterte deutsche Ausgabe.. Deutschland, 
 Berlin: Matthes & Seitz Verlag.
