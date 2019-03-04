@@ -27,4 +27,23 @@ vom die uns am Printmedium halten sind durchaus bekannt und werden gezielt für 
 viel mehr ein Gegenstück, eine Ergänzung zu Eigenschaften des Digitalen wie der Aktualisierung, als ein erzwungenen Versuch 
 zwischen den beiden Medien entscheiden zu müssen.
 
+Nach Ludovico bedienen sich die beiden Medien jedoch auch gegenseitig aneinander, beim Digital Publishing werden die 
+klassischen Erwartungen einer gedruckten Seite übernommen und Print würde zunehmend versuchen Merkmale wie Aktualisierung und 
+Suchbarkeit zu übernehmen (Ludovico 2016: 8).  Besteht nicht hingegen die Möglichkeit, dass gerade die nicht oder zumindest 
+die nur begrenzte Aktualisierung von Print eine Tatsache ist am Print festzuhalten. Im Artikel *Do or DIY* von den Autoren  
+Dworkin, Gilbert, Morris, Soto und Thurston wird sehr gut erläutert, wie schnell und einfach heutzutage mit digitalen Texte 
+umgegangen wird:
+
+ Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden 
+kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und 
+eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen 
+gefiltert, archiviert und mit anderen geteilt werden kann (Dworkin et al. 2013: 22).
+
+Daran wir deutlich, dass im gegenwärtigen digitalen Zeitalter der Umgang mit digitalen Texten eine Vielzahl von Möglichkeiten 
+bietet, darüber hinaus jedoch ebenso wie einfach  und schnell mein digital vorgemerkter Text von heute morgen vielleicht schon 
+eine andere Form annehmen kann. Eine gedruckte Version meines digitalen Textes, kurz Print, schafft demzufolge Sicherheit. 
+Sicherheit in dem Sinne, dass an der Printversion, die zu einem bestimmten Zeitpunkt ausgedruckt wurde, kein Fremder mehr 
+Veränderungen dran vornehmen kann. 
+
+
 
