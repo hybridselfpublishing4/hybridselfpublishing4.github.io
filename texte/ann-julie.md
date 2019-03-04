@@ -92,14 +92,15 @@ sollte man verstehen und als Werkzeug++ anwenden können.
 
 Quellen:
 
-Trogemann, Georg (2010): Code und Material Exkursionen ins Undingliche, Springer-Verlag, Wien
-
 Bajohr, Hannes (2016): Code und Konzept: Literatur und das Digitale, Frommann Verlag, Berlin
 
 Dworkin, Craig; Gilbert, Annette; Morris, Simon; Soto, Carlos; Thurston, Nick (2013): Do or DIY - Zur Geschichte und Praxis des Selbstverlags, Salon Verlag, Köln
 
-Gilbert, Annette (2018): publish - I. Publizieren als Handlungsfeld und Methode, Bd. 256, [online] https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de [04.03.2019]                   
-
-
 Gieselmann, Matthias (2015): Folge 4, Andreas Muxel, Sprechende Dinge - Räume, Code, Gefühl [online] https://formfunk-podcast.de/interviews/andreas-muxel [04.03.2019]
+
+Gilbert, Annette (2018): publish - I. Publizieren als Handlungsfeld und Methode, Bd. 256, [online] 
+https://webcache.googleusercontent.com/search?q=cache:qOoENUgzKYsJ:https://www.kunstforum.de/artikel/vom-rand-ins-zentrum-vom-buch-zum-publizieren/+&cd=1&hl=en&ct=clnk&gl=de [04.03.2019] 
+
+Trogemann, Georg (2010): Code und Material Exkursionen ins Undingliche, Springer-Verlag, Wien
+
 
