@@ -1,5 +1,6 @@
 
-# Absurd 
+# Absurd
+### Die simultane Nutzung von Print und Digital
 *Julia Schmidt*
 
 Ludovico weißt darauf hin, dass „The Death of Paper“ ein glaubhafter und mit der Zeit auch eintretender Entwurf für unser 
@@ -61,7 +62,7 @@ die Erwartungen an eine Seite könnten möglicherweise diese Frage beantworten:
 Physisch - Print wird nicht nur durch unsere Augen, durchs lesen, wahrgenommen sondern vor allem durch unseren Tastsinn. 
 Dadurch das wir wirklich ein Objekt in den Händen fassen, ist Print wesentlich präsenter für uns. Obwohl durch die 
 Digitalisierung und dem Internet Wissen förmlich im Überfluss für jeden zugänglich sind, sind abstrakte Datenmengen von 
-digitalen Dateien für die meisten Fremdwörter.Ein Buch oder Papier dagegen ist für jeden eine plausible und bekannte 
+digitalen Dateien für die meisten Fremdwörter. Ein Buch oder Papier dagegen ist für jeden eine plausible und bekannte 
 Maßeinheit.
 Sicherheit - Im schnellen Alltag des digitalen Zeitalters, in dem durch kleine einfache Mausklicks ein Text komplett neue 
 Formate, Dimensionen oder auch Inhalte annehmen kann. Bietet Print einen kurzweiligen Ausstieg, aufgrund der Option des 
@@ -73,7 +74,7 @@ Genauer betrachtet, sollte die Fragestellung allerdings viel mehr lauten: Müsse
 Print entscheiden? Bzw. würde Print uns zusätzlich neben der Digitalen Versionen einen Mehrwert bieten? Eindeutig: Ja. 
 „As they struggle for survival, they must rapidly evolve and adapt to an ever-changing media environment“ (Ludovico 2012: 8). 
 Genau in dieser sich immer verändernden Medienumwelt hat Print seine Nische entdeckt ohne alte Charakteristika aufzugeben, 
-trotzdem hat sich Print Aktualisierungsprozesse unterzogen, um weiterhin fortzubestehen. Beispielsweise wurde Print wurde 
+trotzdem hat sich Print Aktualisierungsprozessen unterzogen um weiterhin fortzubestehen. Beispielsweise wurde Print wurde 
 angepasst durch digitale Herstellungstechniken, sprich weg vom traditionellen Buchdruck. Dabei soll Print bewusst nicht 
 digitale Versionen nachahmen, sondern sie viel mehr ergänzen. Weswegen die Tatsache, dass wir digitale Versionen zusätzlich 
 als Printversion drucken schließlich nicht Absurd ist. Ludovico vereint diese Erkenntnis sehr gut in diesen abschließend 
