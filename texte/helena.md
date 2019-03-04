@@ -1,6 +1,6 @@
 
 # DIY Ästhetik im Selfpublishing
-## Wie hat sie sich im Laufe der Geschichte verändert und ist die Motivation dahinter noch immer dieselbe?
+## Wie hat sich die Gestaltung im Laufe der Zeit verändert und ist die Motivation dahinter noch immer dieselbe?
 
 *Helena Hagemeier*
 
