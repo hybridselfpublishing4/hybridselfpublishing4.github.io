@@ -14,7 +14,7 @@ sind Codes auch mehr als nur ein einfaches Werkzeug.
 Bei Code denkt man meist an die Programmierung von Maschinen, Computern, etc.. Es hat sich ein Bild festgesetzt welches eine
 reine Funktionalität des Codes beinhaltet. "In den Worten Goldsmiths: 'Die Idee wird zu einer Maschine, die den Text
 herstellt.' Die Wahrheit dieser Metapher liegt darin, dass sie wörtlich zu verstehen ist: Es gibt solche Maschinen. Sie heißen
-Computer." (Bajohr 2016a: 11 f.).
+Computer." (Bajohr 2016a: 11 f.). 
 Code kann und wird jedoch auch in vielen anderen Fachbereichen eingesetzt. Näher kann man Code zum Beispiel in Hinsicht auf
 Selfpublishing betrachten. "1517 veröffentlichte Martin Luther seine 95 Thesen in Form einer ,site-specific Installation' an
 der Schlosskirche zu Wittenberg. Seine Freunde nutzten die neueste technische Errungenschaft, die Druckerpresse, um
@@ -23,17 +23,13 @@ Druckerpresse agierte zu dieser Zeit als Werkzeug zum Publizieren. Es war nicht 
 schwerer , risikoreicher und kostenintensiver ein Buch zu publizieren als heute. Es war ein sehr großer Aufwand der viel
 Eigeninitiative erforderte. Doch oftmals wurden literarische Werk erst Jahrzehnte später wertgeschätzt.
 Weiterhin hat sich die Druckerpresse als Werkzeug weiter entwickelt. Die Druckerpresse als Werkzeug wurde vom Computer, seinem
-Display, seinen Programmen und dem Drucker abgelöst. Diese sind kein einfaches Werkzeug mehr sondern ein Werkzeug+. "Heute
-verändern die digitalen Dateien, die als Datenpakete das Internet überfluten, erneut unser Verständnis davon, was Schreiben
-ausmacht. Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert
-werden kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und
-eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen
-gefiltert, archiviert und mit anderen geteilt werden kann. Sprache ist ein binärer Code in Bewegung von Laufwerk zu Server zu
-Laufwerk." (Dworkin et al. 2013: 22). Werkzeuge+ erweitern nicht nur den Körper sondern auch den Geist. Sie bieten mehr
+Display, seinen Programmen und dem Drucker abgelöst. Diese sind kein einfaches Werkzeug mehr sondern ein Werkzeug+. 
+> "Heute verändern die digitalen Dateien, die als Datenpakete das Internet überfluten, erneut unser Verständnis davon, was Schreiben ausmacht. Es ist nicht weniger physisch; ungeachtet der neuen Leichtigkeit, mit der Sprache heute manipuliert und visualisiert werden kann, wird Sprache nach wie vor als etwas fundamental Materielles verstanden: etwas, das angeklickt, ausgeschnitten und eingefügt, aus einem Programm herausgelöst und ins nächste hineingefüllt, hoch- und heruntergeladen, mithilfe von Suchläufen gefiltert, archiviert und mit anderen geteilt werden kann. Sprache ist ein binärer Code in Bewegung von Laufwerk zu Server zu Laufwerk." (Dworkin et al. 2013: 22). 
+Werkzeuge+ erweitern nicht nur den Körper sondern auch den Geist. Sie bieten mehr
 Freiheiten und Möglichkeiten etwas zu erschaffen und vereinfachen den Prozess des Publizierens. Es sind keine großen Ausgaben
 mehr von Nöten, weil man theoretisch alles selber machen und sein fertiges Werk dann online publizieren kann. Das bedeutet
-weniger Risiko und mehr Möglichkeiten der eigenen Gestaltungsfreiheit. “Als Nebeneffekt hat sich eine
-Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten
+weniger Risiko und mehr Möglichkeiten der eigenen Gestaltungsfreiheit. 
+“Als Nebeneffekt hat sich eine Veröffentlichungsstrategie entwickelt, bei der die Werke im Medienverbund aus frei downloadbarem Pdf und PoD dargeboten
 werden. Dies ist weniger Ausdruck ökonomischen Kalküls als vielmehr eine dem postdigitalen Zeitalter angemessene Strategie,
 bei der sich beide Formate zu einer konzeptuellen Einheit verbinden." (Gilbert 2018: 66).
 Dennoch sind vorgefertigte Programme limitiert. Sie wurden zwar als Lösung von Problemen entwickelt, können jedoch nicht für
