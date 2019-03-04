@@ -82,11 +82,17 @@ Nevertheless, the role of the printed page has radically mutated, from being a p
 complementary medium, sometimes used as a static repository of electronic content (Ludovico 2012: 29). 
 
 Anmerkungen
+
 Ludovico, Alessandro (2012):Post-digital Print: The Mutation of Publishing Since 1894, Niederlande: Onomatopee 77.
+
 Goldsmith, K (2017): Uncreative Writing: Sprachmanagement im digitalen Zeitalter. Erweiterte deutsche Ausgabe.. Deutschland, 
+
 Berlin: Matthes & Seitz Verlag.
+
 Bajohr, Hannes (2016): Infradünne Plattformen, in: Merkur Jg. 70, Nr.800, S. 79.
+
 Gilbert, Annette (2017): Vom Rand ins Zentrum - Vom Buch zum Publizieren, in: Kunstforum Nr. 256, S.66.
+
 Dworkin, C. (2013). Do or diy : zur Geschichte und Praxis des Selbstverlags ; [erweitert und übersetzt]., Deutschland, Köln: 
 Salon-Verlag.
 
