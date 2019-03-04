@@ -58,10 +58,13 @@ anderen Schraube drehen und da wird's dann eigentlich spannend." (Gieselmann 201
 Doch auch Coden kann limitierend 
 sein. Dies liegt dann viel mehr an der eigenen Fähigkeit als an einem technischen Problem. Wenn man selber noch nicht gecodet
 hat ist es schwierig den Zugang diesbezüglich zu finden. Codes sind keine gesprochene Sprache und sie induzieren auch nicht
-sofort Gedankenverknüpfungen in unserem Gehirn. "Fehler, die im Zusammenhang mit Programmcodes auftreten, sind deshalb auch
+sofort Gedankenverknüpfungen in unserem Gehirn. 
+>"Fehler, die im Zusammenhang mit Programmcodes auftreten, sind deshalb auch
 immer Denkfehler und nie Materialfehler im physikalischen Sinn. Denkfehler entstehen immer dann, wenn die Vorstellungen, die 
 sich ein Programmierer vom seinem Code macht, nicht mit den Funktionen übereinstimmen, die der Code tatsächlich berechnet."
-(Trogemann 2010: 19). Der Prozess des Coden läuft daher oft nach dem Prinzip von Trial and Error ab. Das bedeutet dass es darum geht etwas auszuprobieren, zu scheitern und daran zu wachsen. Doch liegt vor allem im Fehler machen der Schlüssel 
+(Trogemann 2010: 19). 
+
+Der Prozess des Coden läuft daher oft nach dem Prinzip von Trial and Error ab. Das bedeutet dass es darum geht etwas auszuprobieren, zu scheitern und daran zu wachsen. Doch liegt vor allem im Fehler machen der Schlüssel 
 zum Erfolg. Code hat zwar sehr sachliche, funktionale und technische Aspekte, jedoch sollte er vielmehr als eine Spielwiese,
 auf der man sich probieren und austoben kann, gesehen werden. Coden kann auch kindlich, spielerisch und intuitiv verwendet 
 werden, wenn man einmal den Mut findet seine Angst davor zu überwinden. Fehler sind immer ein Teil der Lösung und oftmals 
@@ -87,18 +90,6 @@ sollte man verstehen und als Werkzeug++ anwenden können.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Quellen:
 
 Trogemann, Georg (2010): Code und Material Exkursionen ins Undingliche, Springer-Verlag, Wien
@@ -111,3 +102,4 @@ Gilbert, Annette (2018): publish - I. Publizieren als Handlungsfeld und Methode,
 
 
 Gieselmann, Matthias (2015): Folge 4, Andreas Muxel, Sprechende Dinge - Räume, Code, Gefühl [online] https://formfunk-podcast.de/interviews/andreas-muxel [04.03.2019]
+
