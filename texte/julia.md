@@ -58,8 +58,8 @@ Letzen Endes, bleibt die Frage zu beantworten: Wieso benutzen wird das Printmedi
 die Erwartungen an eine Seite könnten möglicherweise diese Frage beantworten: Physisch - Print wird nicht nur durch unsere 
 Augen, durchs lesen, wahrgenommen sondern vor allem durch unseren Tastsinn. Dadurch das wir wirklich ein Objekt in den Händen 
 fassen ist Print wesentlich präsenter für uns. Obwohl durch die Digitalisierung und dem Internet Wissen förmlich im Überfluss 
-für jeden zugänglich sind, sind abstrakte Datenmengen von digitalen Dateien für die meisten Fremdwörter. Ein Buch oder Papier  
-dagegen ist für jeden eine plausible und bekannte Maßeinheit.
+für jeden zugänglich sind, sind abstrakte Datenmengen von digitalen Dateien für die meisten Fremdwörter.
+Ein Buch oder Papier dagegen ist für jeden eine plausible und bekannte Maßeinheit.
 Sicherheit - Im schnellen Alltag des digitalen Zeitalters, in dem durch kleine einfache Mausklicks ein Text komplett neue 
 Formate, Dimension oder auch Inhalte annehmenden kann. Bietet Print einen kurzweilige Ausstieg, aufgrund der Option des 
 Druckens die uns eine nicht mehr veränderliche Version eines bestimmten Zeitpunktes zum archivieren kreiert.
