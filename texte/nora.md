@@ -48,7 +48,7 @@ Sobald man jedoch den Text der PDF auswählt und in einen Texteditor kopiert, si
 »Der Text, »versteckt« hinter den Beschränkungen der Druckseite, behält in der Datei seine Lesbarkeit bei«(Bajohr 2016a: 85).
 Die Verschränkung der drei Ebenen aufeinander, führt zu einem neuen Medium, welches aus der Ergänzung und der folgenden Komplementierung eine Mehrschichtigkeit darstellt und den Ansatz einer Publikation verfolgt, die über das Digitale hinausgeht. 
 
-In Stephanie Syjucos Installation Phantoms (H__RT _F D_RKN_SS)1, werden die drei Ebenen noch mit einer vierten Metaebene verknüpft: Der Betrachter sieht ein paar Hocker vor einem Tisch, auf welchem Bücher zwischen Topfpflanzen angeordnet sind. Die Bücher muten hochwertig an und verfügen über schwarze, glänzende Umschläge. Diese sollen der Besucher animieren, einen der Bände durchblättern, vielleicht den mit dem Titel http://etext.virginia.edu/etcbin/toccer-new2 id=ConDark.sgm&images=images/modeng&data=/texts/english/modsedg/parsed&tag=public&part=all? 
+In Stephanie Syjucos Installation Phantoms (H__RT _F D_RKN_SS)1, werden die drei Ebenen noch mit einer vierten Metaebene verknüpft: Der Betrachter sieht ein paar Hocker vor einem Tisch, auf welchem Bücher zwischen Topfpflanzen angeordnet sind. Die Bücher muten hochwertig an und verfügen über schwarze, glänzende Umschläge. Diese sollen der Besucher animieren, einen der Bände durchblättern, vielleicht den mit dem Titel http://etext.virginia.edu/etcbin/toccer-new2id=ConDark.sgm&images=images/modeng&data=/texts/english/modsedg/parsed&tag=public&part=all? 
 In jedem Buch ist der Text von Joseph Conrads Roman *Heart of Darkness* zu finden, der aus der URL der jeweiligen Universitätswebsite, welche auf dem Titel zu finden ist, ausgewählt wurde. Die anderen Bücher in der Installation, die aus dem gleichen Roman bestehen, stammen aus anderen Quellen.  Syjuco behält den »schmutzigen» Text einschließlich aller HTML-Formatierungen, Links, rechtlichen Hinweise, Urheberrechtshinweise bei und verwandelte diese Online-Quelle in eine gedruckte Publikation mithilfe der Print-on-Demand Technik (Bajohr 2016b: 256). 
 Interessanterweise wurden unter dem Titel *Heart of Darkness*, sowohl eben genannter Roman, als auch ein Computerspiel, veröffentlich. Diese stehe inhaltlich in keinem Zusammenhang, unterstreichen aber dabei den hybriden Charakter von Syjucos Installation und positioniert sie im postdigitalen Zeitalter.
 Der Wunsch der Verlage nach einem hybriden Publikationsweg, ist sicherlich nicht Eins zu Eins vom konzeptionellen Ansatz der experimentellen Publikationsplattformen, zu übertragen. Vielmehr stellt sich die Frage ob eine Print-on-Demand-Publikation, wie die von Joey Years-Algozin aber auch von Stephanie Syjuco, als Kunstwerk oder als literarischer Text gelesen wird. Und wo steht eigentlich der Autor in diesem Wechselspiel? Ist er Produzent, Editor, Moderator...?
@@ -75,6 +75,12 @@ Die beiden Beispiele des Hybrid Publishings von postdigitaler Literatur zeigen a
 (2016b: 263)
 
 Print's not dead, long live hybrid publishing.
+
+
+
+
+
+
 
 **Quellen**
 
