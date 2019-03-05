@@ -1,9 +1,6 @@
 # Print's not dead: Welche Rolle spielt Hybrid Publishing für postdigitale Literatur?
 *Nora Yumi Behrmann*
 
-
-## Print’s not dead: Welche Rolle spielt Hybrid Publishing für postdigitale Literatur?
-
 **Einleitung**
 
 »Eigene neue Qualitäten hinsichtlich der Literaturen erwarte ich von diesen Medien keine.« (Jirgl 2014 zitiert nach Bajohr 2014: 653)
