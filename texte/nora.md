@@ -1,8 +1,6 @@
 # Print's not dead: Welche Rolle spielt Hybrid Publishing für postdigitale Literatur?
 *Nora Yumi Behrmann*
 
-**Einleitung**
-
 »Eigene neue Qualitäten hinsichtlich der Literaturen erwarte ich von diesen Medien keine.« (Jirgl 2014 zitiert nach Bajohr 2014: 653)
 
 Dies ist die Einschätzung des Schriftstellers Reinhard Jirgl zur Verortung von Literatur im Zusammenspiel mit digitalen Medien im Informationszeitalter. 
@@ -19,8 +17,6 @@ Der konventionelle, analoge Weg der Literaturproduktion sieht sich im Informatio
 Es stellt sich die Frage, ob eine Verbindung dieser beider Publikationswege ein eine Antwort auf die Frage nach einem neuen Publikationsweg im postdigitalen Zeitalter sein könnte. 
 Eine Verbindung verschiedener Ebenen führt zu neuen Formen und einer Mehrschichtigkeit, welche im Hybrid Publishing zu finden ist. In diesem Fall könnte man den Versuch einer »hybriden« Publikationsform als eine Art Sandwich beschreiben, zwischen dessen Scheiben die unterschiedlichen Publikationswege korrelieren. Ist dies die Antwort auf den Bedarf nach einem neuen Publikationsweg von postdigitaler Literatur? 
 
-**Hauptteil**
-
 > 
 > The  two  media  are  clashing  as  well,  resulting  in  efforts  from  both  sides  to  discover  some  ideally  balanced  publishing  ‘nirvana’,  where  pixels  and  paper  live  together  in  a  perfect  symbiosis,  generating  (of  course)  an  endless  flow  of  revenue  for  everyone  involved. (Ludovico 2012: 6)
 
@@ -32,7 +28,6 @@ Im Kern verfolgen Publikation-und Literaturkollektive wie GaussPDF in den Verein
 Nicht mehr das *Wie publizieren*? ist von Bedeutung, sondern *Was geht darüber hinaus?*
 Für sie gibt es keine Verbindlichkeit in Bezug auf Medium und Literatur. Ein Text verfügt über zwei gleichwertige Qualitäten, und ist sowohl ausgedruckt als auch online lesbar. Sie spähen darüber hinweg und verwischen somit die Grenzen zwischen digital und analog. Hierdurch verbinden sie sich, laut Anette Gilbert (2018: 66), zu einer »konzeptuellen Einheit«, die anders als die Verlage, nicht auf auf einen ökonomischen, sondern auf einer konzeptionellen Verbindung zweier Medien abzielen. 
 Die Arten der Publikationen sind vielfältig, so besteht die Möglichkeit des oben genannten Online-Lesens auf dem jeweiligen Device, der PDF-Generierung, sowie des Ausdrucks dessen am heimischen Drucker. Darüber hinaus ist es möglich, über Print-on-Demand-Plattformen wie Lulu, eine hochgeladene PDF automatisch ein ISBN zu vergeben und somit zugänglich für den Buchhandel zu machen (Bajohr 2016a: 79).
-
 
 Interessanterweise hat sich die starre Konstruktion des PDF-Formats für die hier genannten experimentellen Publikationsplattformen durchgesetzt, da nur diese mit Print-on-Demand-Plattformen kompatibel sind (Bajohr 2016a: 78).
 Hier zeigt sich das mediale Wechselspiel, bei welchem man Sicht fragt, welches Medium nun welches zuerst beeinflusst hat: 
@@ -56,8 +51,6 @@ Papier und Pixel scheinen sich zu ergänzen: Print gibt dem Leser den Anstoß, i
 Und mit Papier wird auch ein wesentlicher Teil der digitalen Kultur unabhängig von Hard- und Software erhalten, indem die neuen Medien aus der technischen Perspektive eines alten Mediums beschrieben werden (Ludovico 2012 112:29).
 Tatsächlich scheint es viel einfacher zu sein, die Grenzen des Papiers digital zu simulieren als seine Stärken: Die meisten Menschen entscheiden sich immer noch dafür, ein langes Dokument zu drucken und es auf Papier anstatt es auf einem Bildschirm zu lesen. Paradoxerweise hat Papier sogar wesentlich dazu beigetragen, die Kultur und das Bewusstsein der neuen Medien zu verbreiten (Ludovico 2012:30).
 
-**Fazit**
-
 Postdigitale Literatur ist der Versuch einer Positionierung bzw. einer Interpretation der Rolle von Literatur im Informationszeitalter. 
 Es geht vor allem um die Implementierung analoger und digitaler Publikationsmethoden, welche sowohl aus kommerzieller Sicht der Verlage, als auch aus konzeptioneller Perspektive der experimentellen Plattformen, auf vielfältiger Weise interpretiert werden. 
 In Bezug auf das Hybrid Publishing, wurde insbesondere das maßgebende Format der Print-on-Demand Technik thematisiert. Diese setzt selbstständig eine statische Publikationsvorlage auf, welche sich an den gegebenen Vorgaben einer Printpublikation orientieren. 
@@ -65,11 +58,10 @@ Es existieren viele Ansätze, welche im Kern die Print-on-Demand Technik als Dem
 In Bezug auf die These Jirgls, sei zu sagen, dass es zu einfach wäre, Literatur nur als erhabenen Beobachter der Ereignisse zu betrachten. Vielmehr steht sie im konkreten Bezug zu den Geschehnissen und bildet sie nicht nur ab, sondern ist ein essentieller Teil davon. 
 Grundsätzlich stellt sich im Hybrid Publishing nicht die Frage einer vollständigen Ersetzung der Printmedien. Dafür halten diese eine Qualität inne, welche den Nutzer sowohl emotional, als auch haptisch bindet. Vielmehr versucht das Hybrid Publishing, diese mit digitalen Medien zusammenzuführen und eine neue von Form Literatur entstehen zu lassen. Es geht auch nicht um die Imitation oder die Diskreditierung dessen, sondern darum der Frage nachzugehen was nach dem »Digitalen» kommt. Postdigitale Literatur und Hybrid Publishing stehen in sehr starker Korrelation zueinander und bedingen sich sogar gegenseitig: Sie stehen für die Verbindung von Analog und Digital und suchen nach Wegen, postdigitale Literatur abzubilden. Dabei sind beide Begriffe keine klaren Definitionen; vielmehr lassen sie Spielraum für Entwicklungen und sind eher als eine Art Labor zu betrachten, in welchem experimentiert wird und unterschiedliche Kombinationen ausprobiert werden. 
 Die beiden Beispiele des Hybrid Publishings von postdigitaler Literatur zeigen auf, in welche Richtungen es gehen könnte. 
-Über die experimentelle Plattformen hinaus, können sich auch Verlage die den konventionellen Publikationsweg gehen, dies zu Nutzen machen und die konzeptionelle Komponente in ihre hybriden Publikationsstrategien übernehmen. Um es mit Hannes Bajohrs Worten zu sagen:
+Über die experimentelle Plattformen hinaus, können sich auch Verlage die den konventionellen Publikationsweg gehen, dies zu Nutzen machen und die konzeptionelle Komponente in ihre hybriden Publikationsstrategien übernehmen. Um es mit Hannes Bajohrs(2016b: 263) Worten zu sagen:
 
 > I  propose  that  we  view  exponents  of  this  current  as forging  a  new  interchange  between  publishing  technology, dissemination strategy, and textual genre. This development is symptomatic of a larger cultural shift towards digital technization, and of the fact that the object produced by POD is paradigmatically post-digital in its ontology.   
 > 
-(2016b: 263)
 
 Print's not dead, long live hybrid publishing.
 
