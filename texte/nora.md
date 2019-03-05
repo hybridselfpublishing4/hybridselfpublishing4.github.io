@@ -64,8 +64,9 @@ Die beiden Beispiele des Hybrid Publishings von postdigitaler Literatur zeigen a
 > 
 
 Print's not dead, long live hybrid publishing.
-<br>
-<br>
+
+
+
 
 
 
